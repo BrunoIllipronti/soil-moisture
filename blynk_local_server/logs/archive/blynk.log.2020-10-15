@@ -1,0 +1,91 @@
+00:04:19.233 INFO - Using data dir 'data'
+00:04:19.841 INFO - Region : local. Host : 192.168.56.1.
+00:04:21.193 INFO - Initializing gmail smtp mail transport. Username : brunocpp@gmail.com. SMTP host : smtp.gmail.com:587
+00:04:21.231 INFO - Reports : 0
+00:04:21.232 INFO - Didn't find custom user certificates.
+00:04:21.234 INFO - Didn't find Let's Encrypt certificates.
+00:04:21.234 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+00:04:21.234 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\brunoi\OneDrive\RRC-Term-5\IoT\Blynk', key : 'C:\Users\brunoi\OneDrive\RRC-Term-5\IoT\Blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+00:04:23.785 INFO - HTTP API and WebSockets server listening at 8080 port.
+00:04:23.787 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+00:04:23.788 INFO - Mqtt hardware server listening at 8440 port.
+00:07:05.466 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+00:07:15.065 INFO - bruno_cpp@hotmail.com hardware joined.
+00:21:54.117 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:04:40.512 INFO - bruno_cpp@hotmail.com hardware joined.
+01:04:50.026 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:05:31.110 INFO - bruno_cpp@hotmail.com hardware joined.
+01:06:54.274 INFO - bruno_cpp@hotmail.com hardware joined.
+01:07:59.638 INFO - bruno_cpp@hotmail.com hardware joined.
+01:08:36.504 INFO - bruno_cpp@hotmail.com hardware joined.
+01:10:04.706 INFO - bruno_cpp@hotmail.com hardware joined.
+01:15:29.251 INFO - bruno_cpp@hotmail.com hardware joined.
+01:16:01.995 INFO - bruno_cpp@hotmail.com hardware joined.
+01:16:29.126 INFO - bruno_cpp@hotmail.com hardware joined.
+01:17:03.080 INFO - bruno_cpp@hotmail.com hardware joined.
+01:17:10.090 INFO - bruno_cpp@hotmail.com hardware joined.
+01:17:21.023 INFO - bruno_cpp@hotmail.com hardware joined.
+01:17:23.828 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:17:43.753 INFO - bruno_cpp@hotmail.com hardware joined.
+01:21:53.505 INFO - bruno_cpp@hotmail.com hardware joined.
+01:21:55.851 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:22:19.135 INFO - bruno_cpp@hotmail.com hardware joined.
+01:22:52.833 INFO - bruno_cpp@hotmail.com hardware joined.
+01:23:23.320 INFO - bruno_cpp@hotmail.com hardware joined.
+01:23:52.151 INFO - bruno_cpp@hotmail.com hardware joined.
+01:24:42.740 INFO - bruno_cpp@hotmail.com hardware joined.
+01:25:43.141 INFO - bruno_cpp@hotmail.com hardware joined.
+01:25:47.577 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:26:49.113 INFO - bruno_cpp@hotmail.com hardware joined.
+01:27:27.201 INFO - bruno_cpp@hotmail.com hardware joined.
+01:29:51.145 INFO - bruno_cpp@hotmail.com hardware joined.
+01:29:57.814 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:30:28.467 INFO - bruno_cpp@hotmail.com hardware joined.
+01:30:53.975 INFO - bruno_cpp@hotmail.com hardware joined.
+01:31:51.953 INFO - bruno_cpp@hotmail.com hardware joined.
+01:32:10.736 INFO - bruno_cpp@hotmail.com hardware joined.
+01:33:57.535 INFO - bruno_cpp@hotmail.com hardware joined.
+01:33:59.822 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:34:32.744 INFO - bruno_cpp@hotmail.com hardware joined.
+01:36:52.781 INFO - bruno_cpp@hotmail.com hardware joined.
+01:37:58.097 INFO - bruno_cpp@hotmail.com hardware joined.
+01:39:15.316 INFO - bruno_cpp@hotmail.com hardware joined.
+01:39:52.283 INFO - bruno_cpp@hotmail.com hardware joined.
+01:41:54.775 INFO - bruno_cpp@hotmail.com hardware joined.
+01:41:58.355 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:48:17.389 INFO - bruno_cpp@hotmail.com hardware joined.
+01:48:19.841 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:49:01.810 INFO - bruno_cpp@hotmail.com hardware joined.
+01:49:36.836 INFO - bruno_cpp@hotmail.com hardware joined.
+01:50:30.822 INFO - bruno_cpp@hotmail.com hardware joined.
+01:51:12.366 INFO - bruno_cpp@hotmail.com hardware joined.
+01:54:26.820 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+23:02:48.146 INFO - Using data dir 'data'
+23:02:48.566 INFO - Region : local. Host : 192.168.56.1.
+23:02:49.618 INFO - Initializing gmail smtp mail transport. Username : brunocpp@gmail.com. SMTP host : smtp.gmail.com:587
+23:02:49.641 INFO - Reports : 0
+23:02:49.642 INFO - Didn't find custom user certificates.
+23:02:49.643 INFO - Didn't find Let's Encrypt certificates.
+23:02:49.643 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+23:02:49.643 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\brunoi\OneDrive\RRC-Term-5\IoT\Blynk', key : 'C:\Users\brunoi\OneDrive\RRC-Term-5\IoT\Blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+23:02:52.946 INFO - HTTP API and WebSockets server listening at 8080 port.
+23:02:52.947 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+23:02:52.948 INFO - Mqtt hardware server listening at 8440 port.
+23:09:07.109 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+23:09:16.856 INFO - bruno_cpp@hotmail.com hardware joined.
+23:14:22.342 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+23:15:34.074 INFO - bruno_cpp@hotmail.com hardware joined.
+23:16:09.976 INFO - bruno_cpp@hotmail.com hardware joined.
+23:16:28.519 INFO - bruno_cpp@hotmail.com hardware joined.
+23:16:53.217 INFO - bruno_cpp@hotmail.com hardware joined.
+23:17:11.685 INFO - bruno_cpp@hotmail.com hardware joined.
+23:28:07.476 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+23:34:34.685 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+23:34:55.035 INFO - bruno_cpp@hotmail.com hardware joined.
+23:39:11.354 INFO - bruno_cpp@hotmail.com hardware joined.
+23:40:12.486 INFO - bruno_cpp@hotmail.com hardware joined.
+23:41:03.243 INFO - bruno_cpp@hotmail.com hardware joined.
+23:41:42.818 INFO - bruno_cpp@hotmail.com hardware joined.
+23:42:45.276 INFO - bruno_cpp@hotmail.com hardware joined.
+23:44:50.317 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+23:44:54.366 INFO - bruno_cpp@hotmail.com hardware joined.

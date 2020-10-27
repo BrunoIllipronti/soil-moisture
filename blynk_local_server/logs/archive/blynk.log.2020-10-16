@@ -1,0 +1,21 @@
+00:13:40.596 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+00:19:06.774 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+00:27:38.947 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+00:27:42.454 INFO - bruno_cpp@hotmail.com hardware joined.
+00:30:55.948 INFO - bruno_cpp@hotmail.com hardware joined.
+01:01:05.066 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:01:06.950 INFO - bruno_cpp@hotmail.com hardware joined.
+01:03:15.196 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:03:16.966 INFO - bruno_cpp@hotmail.com hardware joined.
+01:06:40.280 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:06:42.634 INFO - bruno_cpp@hotmail.com hardware joined.
+01:13:36.685 INFO - bruno_cpp@hotmail.com hardware joined.
+01:13:39.693 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:21:32.762 INFO - bruno_cpp@hotmail.com hardware joined.
+01:21:45.818 INFO - bruno_cpp@hotmail.com Blynk-app (android-22719) joined.
+01:22:23.207 ERROR- Error sending email from hardware. From user bruno_cpp@hotmail.com, to : bruno_cpp@hotmail.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials fa12sm1518659pjb.25 - gsmtp
+
+01:23:36.017 ERROR- Error sending email from hardware. From user bruno_cpp@hotmail.com, to : bruno_cpp@hotmail.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u7sm1367871pfn.37 - gsmtp
+
